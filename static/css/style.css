@@ -1,0 +1,39 @@
+.orange{
+    color: orange;
+}
+table, th, td {
+    border:20px solid white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.typediv{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.fixedContainer {
+    background-color:whitesmoke;
+    position: fixed;
+    padding: 1em;
+    left: 39%;
+    top: 12%;
+}
+
+.typeListContainer{
+    background-color:whitesmoke;
+    position: fixed;
+    padding: 1em;
+    left: 27%;
+    top: 12%;
+}
+
+.addProductContainer{
+    background-color:whitesmoke;
+    position: fixed;
+    padding: 1em;
+    left: 42%;
+    top: 12%;
+}
